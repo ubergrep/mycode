@@ -1,3 +1,4 @@
+I want to learn version control with Git
 
 # mycode (Project Title)
 
